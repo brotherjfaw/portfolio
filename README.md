@@ -35,3 +35,7 @@ These repositories include earlier Cypress versions and are shared as historical
 Based in Maryland, United States. US citizen; no employment sponsorship required. I collaborate with cross-functional product and engineering teams on quality engineering and distributed software delivery.
 
 [GitHub profile](https://github.com/brotherjfaw)
+
+## Modern Playwright + TypeScript portfolio project
+
+- [Playwright + TypeScript QA Automation](./playwright-typescript-qa/) — UI and API scenarios, Page Object Model, Chromium/Firefox and [GitHub Actions CI](https://github.com/brotherjfaw/portfolio/actions/workflows/playwright-qa.yml). This is a new example project; check the workflow page for verified execution results.
